@@ -1,0 +1,12 @@
+.modal-body {
+  background-color: #def7e5;
+}
+
+.modal-header {
+  background-color: #006056;
+  text-align: center;
+}
+
+#exampleModalLabel {
+  color: white;
+}
